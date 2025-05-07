@@ -15,3 +15,9 @@ create params.yaml file
 Add params step as mentioned below
 do dvc repr
 Git add commit push
+
+
+Experiment with DVC live:
+import dvc and yml
+Add load params function and initiate params" var in main
+
